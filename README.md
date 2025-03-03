@@ -11,6 +11,9 @@ Interactive, responsive web application that allows users to search for current 
 - **Search History:** Automatically saves previous searches in the browser’s local storage.
 - **Clean Code & Deployment:** Organized project structure and deployed on GitHub Pages.
 
+## Deployment
+https://j-rentsendorj.github.io/WeatherApplication/
+
 ## Installation
 1. **Clone the Repository:**
    ```bash
