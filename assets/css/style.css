@@ -1,0 +1,16 @@
+body {
+    background-color: lightgray;
+}
+
+h4 {
+    margin-top: 1rem;
+}
+
+.list-group-item {
+    cursor: pointer;
+}
+
+.section-title {
+    font-size: 1.5rem; 
+    font-weight: bold;
+}
